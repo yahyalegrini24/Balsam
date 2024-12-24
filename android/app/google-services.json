@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20060257612",
+    "project_id": "balsam-533ad",
+    "storage_bucket": "balsam-533ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20060257612:android:73f1cd1ac9d96edceb63e9",
+        "android_client_info": {
+          "package_name": "com.anonymous.GL"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_YuhhHD9GzDMk5yoZvO633DkF6ZEIQ3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
